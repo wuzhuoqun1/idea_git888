@@ -5,6 +5,7 @@ public class GitTest {
         System.out.println("第一次打印");
         System.out.println("第二次打印");
         System.out.println("第三次打印");
+        System.out.println("第三次打印");
 
 
     }
